@@ -1,5 +1,0 @@
-[0.011s] Invoking command in '/home/ubuntu/pibot_ws/build/pibot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/pibot_ws/install/pibot_py_examples:/home/ubuntu/pibot_ws/install/pibot_descripition:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/pibot_ws/build/pibot_cpp_examples -- -j8 -l8
-[0.046s] [0mCMake Error: The source directory "/home/ubuntu/pibot_ws/pibot_cpp_examples" does not exist.
-[0.046s] Specify --help for usage, or press the help button on the CMake GUI.[0m
-[0.048s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
-[0.150s] Invoked command in '/home/ubuntu/pibot_ws/build/pibot_cpp_examples' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/pibot_ws/install/pibot_py_examples:/home/ubuntu/pibot_ws/install/pibot_descripition:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/pibot_ws/build/pibot_cpp_examples -- -j8 -l8

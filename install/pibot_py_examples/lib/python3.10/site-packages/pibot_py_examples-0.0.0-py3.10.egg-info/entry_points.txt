@@ -1,3 +1,0 @@
-[console_scripts]
-simple_publisher = pibot_py_examples.simple_publisher:main
-

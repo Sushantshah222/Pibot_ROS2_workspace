@@ -1,6 +1,0 @@
-source;share/pibot_descripition/hook/pythonpath.ps1
-source;share/pibot_descripition/hook/pythonpath.dsv
-source;share/pibot_descripition/hook/pythonpath.sh
-source;share/pibot_descripition/hook/ament_prefix_path.ps1
-source;share/pibot_descripition/hook/ament_prefix_path.dsv
-source;share/pibot_descripition/hook/ament_prefix_path.sh
