@@ -1,0 +1,15 @@
+/home/ubuntu/pibot_ws/install/pibot_description/share/ament_index/resource_index/package_run_dependencies/pibot_description
+/home/ubuntu/pibot_ws/install/pibot_description/share/ament_index/resource_index/parent_prefix_path/pibot_description
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/environment/ament_prefix_path.sh
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/environment/ament_prefix_path.dsv
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/environment/path.sh
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/environment/path.dsv
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/local_setup.bash
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/local_setup.sh
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/local_setup.zsh
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/local_setup.dsv
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/package.dsv
+/home/ubuntu/pibot_ws/install/pibot_description/share/ament_index/resource_index/packages/pibot_description
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/cmake/pibot_descriptionConfig.cmake
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/cmake/pibot_descriptionConfig-version.cmake
+/home/ubuntu/pibot_ws/install/pibot_description/share/pibot_description/package.xml
