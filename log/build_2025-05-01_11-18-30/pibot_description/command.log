@@ -1,0 +1,4 @@
+Invoking command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/Pibot_ROS2_workspace/build/pibot_description -- -j8 -l8
+Invoked command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/Pibot_ROS2_workspace/build/pibot_description -- -j8 -l8
+Invoking command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/Pibot_ROS2_workspace/build/pibot_description
+Invoked command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/Pibot_ROS2_workspace/build/pibot_description

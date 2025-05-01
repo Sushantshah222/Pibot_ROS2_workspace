@@ -1,0 +1,2 @@
+Invoking command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description': /usr/bin/cmake /home/ubuntu/Pibot_ROS2_workspace/src/pibot_description -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Pibot_ROS2_workspace/install/pibot_description
+Invoked command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description' returned '1': /usr/bin/cmake /home/ubuntu/Pibot_ROS2_workspace/src/pibot_description -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Pibot_ROS2_workspace/install/pibot_description

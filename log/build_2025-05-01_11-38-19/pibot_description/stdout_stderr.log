@@ -1,0 +1,10 @@
+-- Install configuration: ""
+-- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/launch
+-- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/launch/display.launch.py
+-- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/launch/gazebo.launch.py
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/ubuntu/Pibot_ROS2_workspace/src/pibot_description/meshes": No such
+  file or directory.
+
+[0m

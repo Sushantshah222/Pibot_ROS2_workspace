@@ -1,8 +1,8 @@
-# Install script for directory: /home/ubuntu/pibot_ws/src/pibot_description
+# Install script for directory: /home/ubuntu/Pibot_ROS2_workspace/src/pibot_description
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/ubuntu/pibot_ws/install/pibot_description")
+  set(CMAKE_INSTALL_PREFIX "/home/ubuntu/Pibot_ROS2_workspace/install/pibot_description")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -43,18 +43,20 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description/" TYPE DIRECTORY FILES
-    "/home/ubuntu/pibot_ws/src/pibot_description/urdf"
-    "/home/ubuntu/pibot_ws/src/pibot_description/meshes"
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE DIRECTORY FILES
+    "/home/ubuntu/Pibot_ROS2_workspace/src/pibot_description/launch"
+    "/home/ubuntu/Pibot_ROS2_workspace/src/pibot_description/meshes"
+    "/home/ubuntu/Pibot_ROS2_workspace/src/pibot_description/urdf"
+    "/home/ubuntu/Pibot_ROS2_workspace/src/pibot_description/rviz"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/pibot_description")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/pibot_description")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/pibot_description")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/pibot_description")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -62,7 +64,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description/environment" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_environment_hooks/ament_prefix_path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description/environment" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_environment_hooks/ament_prefix_path.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -70,42 +72,42 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description/environment" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_environment_hooks/path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description/environment" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_environment_hooks/path.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_environment_hooks/local_setup.bash")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_environment_hooks/local_setup.bash")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_environment_hooks/local_setup.sh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_environment_hooks/local_setup.sh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_environment_hooks/local_setup.zsh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_environment_hooks/local_setup.zsh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_environment_hooks/local_setup.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_environment_hooks/local_setup.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_environment_hooks/package.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_environment_hooks/package.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_index/share/ament_index/resource_index/packages/pibot_description")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_index/share/ament_index/resource_index/packages/pibot_description")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description/cmake" TYPE FILE FILES
-    "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_core/pibot_descriptionConfig.cmake"
-    "/home/ubuntu/pibot_ws/build/pibot_description/ament_cmake_core/pibot_descriptionConfig-version.cmake"
+    "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_core/pibot_descriptionConfig.cmake"
+    "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/ament_cmake_core/pibot_descriptionConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/pibot_ws/src/pibot_description/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pibot_description" TYPE FILE FILES "/home/ubuntu/Pibot_ROS2_workspace/src/pibot_description/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -116,5 +118,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ubuntu/pibot_ws/build/pibot_description/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ubuntu/Pibot_ROS2_workspace/build/pibot_description/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

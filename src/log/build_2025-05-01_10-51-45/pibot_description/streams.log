@@ -1,0 +1,39 @@
+[0.011s] Invoking command in '/home/ubuntu/Pibot_ROS2_workspace/src/build/pibot_description': /usr/bin/cmake /home/ubuntu/Pibot_ROS2_workspace/src/pibot_description -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Pibot_ROS2_workspace/src/install/pibot_description
+[0.067s] -- The C compiler identification is GNU 11.4.0
+[0.104s] -- The CXX compiler identification is GNU 11.4.0
+[0.108s] -- Detecting C compiler ABI info
+[0.148s] -- Detecting C compiler ABI info - done
+[0.153s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.153s] -- Detecting C compile features
+[0.153s] -- Detecting C compile features - done
+[0.155s] -- Detecting CXX compiler ABI info
+[0.197s] -- Detecting CXX compiler ABI info - done
+[0.201s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.201s] -- Detecting CXX compile features
+[0.201s] -- Detecting CXX compile features - done
+[0.203s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.275s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.319s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.319s] [0mCMake Error: File /home/ubuntu/Pibot_ROS2_workspace/src/pibot_description/package.xml does not exist.[0m
+[0.319s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/stamp.cmake:24 (configure_file):
+[0.319s]   configure_file Problem configuring file
+[0.319s] Call Stack (most recent call first):
+[0.319s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:73 (stamp)
+[0.319s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.319s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.319s]   CMakeLists.txt:22 (ament_lint_auto_find_test_dependencies)
+[0.319s] 
+[0.319s] [0m
+[0.319s] [0mCMake Error: File /home/ubuntu/Pibot_ROS2_workspace/src/pibot_description/package.xml does not exist.[0m
+[0.319s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/stamp.cmake:24 (configure_file):
+[0.319s]   configure_file Problem configuring file
+[0.319s] Call Stack (most recent call first):
+[0.319s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:73 (stamp)
+[0.319s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.319s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package.cmake:63 (ament_package_xml)
+[0.319s]   CMakeLists.txt:25 (ament_package)
+[0.319s] 
+[0.319s] [0m
+[0.323s] -- Configuring incomplete, errors occurred!
+[0.323s] See also "/home/ubuntu/Pibot_ROS2_workspace/src/build/pibot_description/CMakeFiles/CMakeOutput.log".
+[0.326s] Invoked command in '/home/ubuntu/Pibot_ROS2_workspace/src/build/pibot_description' returned '1': /usr/bin/cmake /home/ubuntu/Pibot_ROS2_workspace/src/pibot_description -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Pibot_ROS2_workspace/src/install/pibot_description
