@@ -2,8 +2,13 @@
 
 <robot name="pibot" xmlns:xacro="http://ros.org/wiki/xacro">
 
+  <xacro:args name="is_ignition" default="true">
   <!-- Include Gazebo Parameters -->
   <xacro:include filename="$(find pibot_description)/urdf/pibot_gazebo.xacro" />
+
+ <!-- Include Gazebo Parameters -->
+  <xacro:include filename="$(find pibot_description)/urdf/pibot_ros2_control.xacro" />
+
 
   <link name="base_footprint"/>
   
