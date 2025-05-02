@@ -1,0 +1,4 @@
+source;share/pibot_controller/local_setup.bash
+source;share/pibot_controller/local_setup.dsv
+source;share/pibot_controller/local_setup.sh
+source;share/pibot_controller/local_setup.zsh

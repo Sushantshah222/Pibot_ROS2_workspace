@@ -6,6 +6,7 @@
 /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/meshes/wheel_right_link.STL
 /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/meshes/wheel_left_link.STL
 /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/meshes/base_link.STL
+/home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/urdf/pibot_ros2_control.xacro
 /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/urdf/pibot_gazebo.xacro
 /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/urdf/pibot.urdf.xacro
 /home/ubuntu/Pibot_ROS2_workspace/install/pibot_description/share/pibot_description/rviz/display.rviz

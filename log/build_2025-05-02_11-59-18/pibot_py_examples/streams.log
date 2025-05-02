@@ -1,0 +1,20 @@
+[0.294s] Invoking command in '/home/ubuntu/Pibot_ROS2_workspace/src/pibot_py_examples': PYTHONPATH=/home/ubuntu/Pibot_ROS2_workspace/build/pibot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/Pibot_ROS2_workspace/install/pibot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pibot_py_examples build --build-base /home/ubuntu/Pibot_ROS2_workspace/build/pibot_py_examples/build install --record /home/ubuntu/Pibot_ROS2_workspace/build/pibot_py_examples/install.log --single-version-externally-managed install_data
+[0.398s] running egg_info
+[0.399s] writing ../../build/pibot_py_examples/pibot_py_examples.egg-info/PKG-INFO
+[0.399s] writing dependency_links to ../../build/pibot_py_examples/pibot_py_examples.egg-info/dependency_links.txt
+[0.399s] writing entry points to ../../build/pibot_py_examples/pibot_py_examples.egg-info/entry_points.txt
+[0.399s] writing requirements to ../../build/pibot_py_examples/pibot_py_examples.egg-info/requires.txt
+[0.399s] writing top-level names to ../../build/pibot_py_examples/pibot_py_examples.egg-info/top_level.txt
+[0.400s] reading manifest file '../../build/pibot_py_examples/pibot_py_examples.egg-info/SOURCES.txt'
+[0.400s] writing manifest file '../../build/pibot_py_examples/pibot_py_examples.egg-info/SOURCES.txt'
+[0.400s] running build
+[0.400s] running build_py
+[0.400s] running install
+[0.400s] running install_lib
+[0.401s] running install_data
+[0.401s] running install_egg_info
+[0.402s] removing '/home/ubuntu/Pibot_ROS2_workspace/install/pibot_py_examples/lib/python3.10/site-packages/pibot_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[0.402s] Copying ../../build/pibot_py_examples/pibot_py_examples.egg-info to /home/ubuntu/Pibot_ROS2_workspace/install/pibot_py_examples/lib/python3.10/site-packages/pibot_py_examples-0.0.0-py3.10.egg-info
+[0.403s] running install_scripts
+[0.412s] writing list of installed files to '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_py_examples/install.log'
+[0.424s] Invoked command in '/home/ubuntu/Pibot_ROS2_workspace/src/pibot_py_examples' returned '0': PYTHONPATH=/home/ubuntu/Pibot_ROS2_workspace/build/pibot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/Pibot_ROS2_workspace/install/pibot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pibot_py_examples build --build-base /home/ubuntu/Pibot_ROS2_workspace/build/pibot_py_examples/build install --record /home/ubuntu/Pibot_ROS2_workspace/build/pibot_py_examples/install.log --single-version-externally-managed install_data

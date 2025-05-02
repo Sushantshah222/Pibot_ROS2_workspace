@@ -1,0 +1,38 @@
+[0.011s] Invoking command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/Pibot_ROS2_workspace/install/pibot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller -- -j8 -l8
+[0.030s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.094s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.129s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.129s] -- Configured cppcheck include dirs: 
+[0.129s] -- Configured cppcheck exclude dirs and/or files: 
+[0.130s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.131s] -- Added test 'lint_cmake' to check CMake code style
+[0.132s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.135s] -- Added test 'uncrustify' to check C / C++ code style
+[0.135s] -- Configured uncrustify additional arguments: 
+[0.137s] -- Added test 'xmllint' to check XML markup files
+[0.137s] -- Configuring done
+[0.140s] -- Generating done
+[0.140s] -- Build files have been written to: /home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller
+[0.162s] Invoked command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/Pibot_ROS2_workspace/install/pibot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller -- -j8 -l8
+[0.162s] Invoking command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/Pibot_ROS2_workspace/install/pibot_py_examples:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller
+[0.165s] -- Install configuration: ""
+[0.165s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/launch
+[0.165s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/launch/controller.launch.py
+[0.165s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/config
+[0.165s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/config/pibot_controllers.yaml
+[0.165s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/ament_index/resource_index/package_run_dependencies/pibot_controller
+[0.165s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/ament_index/resource_index/parent_prefix_path/pibot_controller
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/environment/ament_prefix_path.sh
+[0.166s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/environment/ament_prefix_path.dsv
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/environment/path.sh
+[0.166s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/environment/path.dsv
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/local_setup.bash
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/local_setup.sh
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/local_setup.zsh
+[0.166s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/local_setup.dsv
+[0.166s] -- Installing: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/package.dsv
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/ament_index/resource_index/packages/pibot_controller
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/cmake/pibot_controllerConfig.cmake
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/cmake/pibot_controllerConfig-version.cmake
+[0.166s] -- Up-to-date: /home/ubuntu/Pibot_ROS2_workspace/install/pibot_controller/share/pibot_controller/package.xml
+[0.167s] Invoked command in '/home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/Pibot_ROS2_workspace/install/pibot_py_examples:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/Pibot_ROS2_workspace/build/pibot_controller
